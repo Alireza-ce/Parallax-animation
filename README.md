@@ -1,4 +1,4 @@
 # Parallax-animation
 
-##Demo
+## Demo
 https://parallax-clone-app.netlify.app
